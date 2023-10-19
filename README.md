@@ -2,7 +2,7 @@
 
 ## Lab: Construindo um Simulador de Piano com JavaScript
 
-![Simulador de Piano](./screenshot/)
+![Simulador de Piano](./screenshots/piano-virtual.png)
 
 ## Detalhes 
 - Tecnologias: HTML, CSS e JavaScript
